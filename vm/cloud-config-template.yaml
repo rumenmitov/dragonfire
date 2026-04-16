@@ -1,0 +1,8 @@
+#cloud-config
+password: root
+chpasswd:
+  expire: false
+ssh_pwauth: true
+disable_root: false
+ssh_authorized_keys:
+  - SSH_AUTHORIZED_KEY_PLACEHOLDER
