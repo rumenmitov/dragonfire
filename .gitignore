@@ -8,3 +8,6 @@
 **/*#
 
 /.dir-locals.el
+
+/vm/.vm
+/.kheaders/
